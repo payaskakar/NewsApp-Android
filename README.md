@@ -1,6 +1,6 @@
 # News App
-Fetch news from API and list them inside a RecyclerView.
+•	This Android App is basically a news-reading app where the users can easily read the latest news.
+•	Used NEWS API for retrieving the news across the web.
+•	All the News is shown inside the Recycler View.
+•	Tech Used – Kotlin, Android Studio.  
 
-</br>
-</br>
-[![Watch this video](https://img.youtube.com/vi/ttIfesjYDQQ/0.jpg)] (https://www.youtube.com/watch?v=ttIfesjYDQQ)
